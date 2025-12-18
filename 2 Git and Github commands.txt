@@ -1,0 +1,15 @@
+>>for first time we configure git hub on our machine
+git config --global user.name "dsrisarvagna-sudo"
+git config --global user.email "dsrisarvagna@gmail.com"
+git config --global color.ui auto
+
+mandatory comment :
+>>git init
+>>git remote add origin https://github.com/dsrisarvagna-sudo/gitDemo.git
+
+
+git pull origin main
+
+git status (checking)
+
+git add 2 . (push all the files in the editerg)
